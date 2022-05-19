@@ -1,0 +1,51 @@
+.menu{
+	margin-left: 420px;
+	padding: 20px;
+}
+ul li{
+	list-style: none;
+	float: left;
+	margin-left: 20px;
+	color: red;
+	background-color: white;
+}
+.list{
+	color: green;
+	background-color: white;
+	font-size: 17px;
+}
+.list:hover {
+	color: white;
+	background-color: black;
+}
+.text{
+	margin-left: 550px;
+	text-align: center;
+	background-color: powderblue;
+}
+ol li{
+	list-style: none;
+	float: center;
+	margin-top: 10px;
+	color: red;
+	background-color: white;
+	margin-left: 490px;
+	padding: 20px;
+	margin-right: 300px;
+}
+.tab{
+	color: white;
+	background-color: orange;
+
+}
+.tab:hover{
+	color: orange;
+	background-color: white;
+}
+.img{
+	margin-left: 840px;
+	margin-top: -210px;
+	border: navy solid 5px;
+	padding: 60px 60px 60px 90px;
+	background-color: yellowgreen;
+}
